@@ -1,4 +1,4 @@
-# Kritya_CapstoneProject
+# Nivant_CapstoneProject
 
 
 Dynamic Pricing System for Urban Parking Spaces
